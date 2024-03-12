@@ -19,7 +19,10 @@ DevOps Tools & Practices: Containerization (Docker, Kubernetes), Continuous Inte
 Python: Developed a machine learning platform used by thousands of researchers globally, achieving a 40% reduction in computation time compared to traditional approaches. Utilized NumPy, Pandas, SciPy, scikit-learn, TensorFlow, PyTorch, and NLTK extensively.
 Java: Designed and built a highly concurrent microservices architecture serving millions of requests daily, reducing latency by 60%. Implemented numerous multi-threaded algorithms utilizing JVM features like thread pool executors, synchronizers, and locks.
 JavaScript & TypeScript: Spearheaded large-scale projects leveraging cutting-edge JS techniques, ES6+, TypeScript, React, Vue, and Node. Optimized performance metrics, improved UX, and contributed significantly to company growth.
-
+ <script src="/node_modules/vue/dist/vue.min.js"></script>
+    <script src="/node_modules/axios/dist/axios.min.js"></script>
+    <script src="/node_modules/prismjs/components/prism-markdown.min.js"></script>
+    <script src="/src/main.js"></script>
 DevToping/DevToping is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
